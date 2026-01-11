@@ -1,4 +1,4 @@
----
+https://dontkillmyapp.com/htc---
 manufacturer:
     - htc
 
